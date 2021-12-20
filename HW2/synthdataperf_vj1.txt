@@ -1,0 +1,1186 @@
+
+i =
+
+     1
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.7800
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.9200
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9400
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9600
+
+The Accuracy after 150 iterations for 10D, N=500 is 0.9840
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 0.9800
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.3000
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 0.9900
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.9200
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.8800
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 1.0000
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+
+i =
+
+     2
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.7800
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.9000
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.9000
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9700
+
+The Accuracy after 150 iterations for 10D, N=500 is 0.9940
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 1.0000
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.3920
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 1.0000
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.9600
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.8700
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 0.9400
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 0.9700
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 3D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 0.9800
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+
+i =
+
+     3
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.8200
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.8400
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.9100
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9200
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9700
+
+The Accuracy after 150 iterations for 10D, N=500 is 0.9860
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 0.9900
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.0980
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 1.0000
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.9100
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.9100
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 0.9900
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+
+i =
+
+     4
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.5600
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.9100
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.9300
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9700
+
+The Accuracy after 150 iterations for 10D, N=500 is 1.0000
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 0.9800
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.7200
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 1.0000
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.8200
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.9100
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 0.8900
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=1000 is 0.9920
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 0.9900
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+
+i =
+
+     5
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.8600
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.7800
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.8500
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9200
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9300
+
+The Accuracy after 150 iterations for 10D, N=500 is 0.9860
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 0.9800
+
+The Accuracy after 200 iterations for 10D, N=1000 is 501.2960
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 0.9900
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.7500
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.7400
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 0.9700
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 3D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 1.0000
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 0.8800
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 0.8800
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 0.8800
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+
+i =
+
+     6
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.7800
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.8500
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.8800
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9200
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9700
+
+The Accuracy after 150 iterations for 10D, N=500 is 1.0000
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 0.9900
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.0300
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 0.9900
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.7700
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 3D, N=1000 is 0.9940
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 0.9900
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 0.9600
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 0.9600
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 0.9600
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+
+i =
+
+     7
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.6500
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.9000
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.9400
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9200
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9800
+
+The Accuracy after 150 iterations for 10D, N=500 is 0.9760
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 0.9800
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.0600
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 1.0000
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.9700
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 0.9700
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 1.0000
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 0.9700
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+
+i =
+
+     8
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.7600
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.7600
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.9200
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9700
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9700
+
+The Accuracy after 150 iterations for 10D, N=500 is 1.0000
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 1.0000
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.0160
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 0.9900
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.9200
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.9200
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 0.9700
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 3D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 1.0000
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 0.9200
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 0.9200
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+
+i =
+
+     9
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.6900
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.8300
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.8600
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9700
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9700
+
+The Accuracy after 150 iterations for 10D, N=500 is 0.9860
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 0.9800
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.8000
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 0.9800
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.8100
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.9100
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 0.9700
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 3D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 1.0000
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 0.9000
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+
+i =
+
+    10
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.8900
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.8400
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.8800
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9000
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 150 iterations for 10D, N=500 is 1.0000
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 1.0000
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.3200
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 0.9900
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.9200
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 3D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 1.0000
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+
+i =
+
+    11
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.7500
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.8200
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.9100
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9300
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9400
+
+The Accuracy after 150 iterations for 10D, N=500 is 1.0000
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 1.0000
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.2420
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 0.9900
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.8700
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.8200
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 3D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 1.0000
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 0.9000
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+
+i =
+
+    12
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.7500
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.7900
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.9300
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9700
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9800
+
+The Accuracy after 150 iterations for 10D, N=500 is 0.9900
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 0.9700
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.0080
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 0.9900
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.9400
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.9400
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=1000 is 0.9910
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 1.0000
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 0.9300
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 0.9400
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 0.9600
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+
+i =
+
+    13
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.7900
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.8500
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.8700
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9700
+
+The Accuracy after 150 iterations for 10D, N=500 is 1.0000
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 1.0000
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.0720
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 1.0000
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.8400
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 3D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 1.0000
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 0.9700
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 0.9700
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 0.9400
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+
+i =
+
+    14
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.7800
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.8100
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.8700
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9800
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9500
+
+The Accuracy after 150 iterations for 10D, N=500 is 1.0000
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 1.0000
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.0320
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 0.9900
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.8300
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.9400
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 3D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 1.0000
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 0.9400
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+
+i =
+
+    15
+
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.4300
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.6700
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.9300
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9200
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9800
+
+The Accuracy after 150 iterations for 10D, N=500 is 0.9900
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 0.9800
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.3600
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 1.0000
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.9100
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 0.9700
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 3D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 1.0000
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 0.9700
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.8966
+HW2_Plotting
+{Error: <a href="matlab: opentoline('D:\BE700Ai\HW2_Plotting.m',6,1)">File: HW2_Plotting.m Line: 6 Column: 1</a>
+Invalid use of operator.
+} 
+HW2_Plotting
+HW2_Plotting
+HW2_Plotting
+perf2d(1,;)
+ perf2d(1,;)
+          ↑
+{Error: Invalid expression. When calling a function or indexing a variable, use parentheses. Otherwise, check for mismatched delimiters.
+} 
+
+perf2d(1,:)
+{Unrecognized function or variable 'perf2d'.
+} 
+Perf2D(1,:)
+
+ans =
+
+  Columns 1 through 14
+
+    0.9500    1.0000    0.9900    1.0000    0.8800    0.9600    0.9700    0.9200    0.9000    0.9800    0.9000    0.9300    0.9700    1.0000
+
+  Column 15
+
+    0.9700
+
+HW2_Plotting
+{Unrecognized function or variable 'perf2d'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HW2_Plotting', 'D:\BE700Ai\HW2_Plotting.m', 12)" style="font-weight:bold">HW2_Plotting</a> (<a href="matlab: opentoline('D:\BE700Ai\HW2_Plotting.m',12,0)">line 12</a>)
+plot(n,perf2d(1,:))
+} 
+HW2_Plotting
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Vectors must be the same length.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('HW2_Plotting', 'D:\BE700Ai\HW2_Plotting.m', 12)" style="font-weight:bold">HW2_Plotting</a> (<a href="matlab: opentoline('D:\BE700Ai\HW2_Plotting.m',12,0)">line 12</a>)
+plot(n,Perf2D(1,:))
+} 
+HW2_Plotting
+HW2_Plotting
+HW2_Plotting
+HW2_Plotting
+HW2_Plotting
+HW2_Plotting
+HW2_Plotting
+HW2_Plotting
+HW2_Plotting
+HW2_Plotting
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.8621
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.8506
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.8851
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.8966
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.8966
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.8966
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.8966
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.9195
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.9080
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.9195
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.9080
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.7126
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.8621
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.8621
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.8621
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.8621
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.8621
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.8621
+HW2_Perceptron
+Part 1. The Accuracy after 500 iterations is 0.9195
+HW2_Perceptron
+Part 1. The Accuracy after 600.000000 iterations is 0.9195
+HW2_Perceptron
+Part 1. The Accuracy after 600.00 iterations is 0.9195
+HW2_Perceptron
+Part 1. The Accuracy after 600 iterations is 0.9195
+HW2_Perceptron
+Part 1. The Accuracy after 550 iterations is 0.8851
+HW2_Perceptron
+Part 1. The Accuracy after 600 iterations is 0.9195
+HW2_Plotting
+HW2_Perceptron_SyntheticData
+10 Dimenstions
+
+The Accuracy after 100 iterations for 10D, N=10 is 1.0000
+The Accuracy after 100 iterations for 10D, N=10 on the testing set of N=100 is 0.6800
+
+The Accuracy after 100 iterations for 10D, N=20 is 1.0000
+The Accuracy after 100 iterations for 10D, N=20 on the testing set of N=100 is 0.7700
+
+The Accuracy after 100 iterations for 10D, N=50 is 1.0000
+The Accuracy after 100 iterations for 10D, N=50 on the testing set of N=100 is 0.8600
+
+The Accuracy after 100 iterations for 10D, N=100 is 1.0000
+The Accuracy after 100 iterations for 10D, N=100 on the testing set of N=100 is 0.9600
+
+The Accuracy after 100 iterations for 10D, N=200 is 1.0000
+The Accuracy after 100 iterations for 10D, N=200 on the testing set of N=100 is 0.9900
+
+The Accuracy after 150 iterations for 10D, N=500 is 0.9880
+The Accuracy after 150 iterations for 10D, N=500 on the testing set of N=100 is 0.9900
+
+The Accuracy after 200 iterations for 10D, N=1000 is 500.0000
+The Accuracy after 200 iterations for 10D, N=1000 on the testing set of N=100 is 1.0000
+
+3 Dimenstions
+
+The Accuracy after 100 iterations for 3D, N=10 is 1.0000
+The Accuracy after 100 iterations for 3D, N=10 on the testing set of N=100 is 0.8400
+
+The Accuracy after 100 iterations for 3D, N=20 is 1.0000
+The Accuracy after 100 iterations for 3D, N=20 on the testing set of N=100 is 0.9100
+
+The Accuracy after 100 iterations for 3D, N=50 is 1.0000
+The Accuracy after 100 iterations for 3D, N=50 on the testing set of N=100 is 0.9400
+
+The Accuracy after 100 iterations for 3D, N=100 is 1.0000
+The Accuracy after 100 iterations for 3D, N=100 on the testing set of N=100 is 0.9500
+
+The Accuracy after 100 iterations for 3D, N=200 is 1.0000
+The Accuracy after 100 iterations for 3D, N=200 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 3D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 3D, N=1000 on the testing set of N=100 is 1.0000
+
+2 Dimenstions
+
+The Accuracy after 100 iterations for 2D, N=10 is 1.0000
+The Accuracy after 100 iterations for 2D, N=10 on the testing set of N=100 is 0.7200
+
+The Accuracy after 100 iterations for 2D, N=20 is 1.0000
+The Accuracy after 100 iterations for 2D, N=20 on the testing set of N=100 is 0.9900
+
+The Accuracy after 100 iterations for 2D, N=50 is 1.0000
+The Accuracy after 100 iterations for 2D, N=50 on the testing set of N=100 is 0.9300
+
+The Accuracy after 100 iterations for 2D, N=100 is 1.0000
+The Accuracy after 100 iterations for 2D, N=100 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=200 is 1.0000
+The Accuracy after 100 iterations for 2D, N=200 on the testing set of N=100 is 1.0000
+
+The Accuracy after 100 iterations for 2D, N=1000 is 1.0000
+The Accuracy after 100 iterations for 2D, N=1000 on the testing set of N=100 is 1.0000
+
