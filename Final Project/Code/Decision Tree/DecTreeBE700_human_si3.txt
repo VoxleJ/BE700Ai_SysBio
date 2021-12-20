@@ -1,0 +1,245 @@
+Decision Tree Model 1 Average AUC = 0.509
+Decision Tree Model 1 Average Accuracy = 0.474
+Decision Tree Model 1 Average Error Rate = 0.526
+Decision Tree Model 1 Average Sensitivity = 0.000
+Decision Tree Model 1 Average Specificity = 0.509
+
+
+ Best Values 
+
+ Best AUC: 0.722
+ Best ACC: 0.667
+ Best Error: 0.333
+ Best Sensitivity: 0.000
+ Best Specificity: 0.667
+ 
+Decision tree for classification
+1  if x18778<10.0397 then node 2 elseif x18778>=10.0397 then node 3 else 0
+2  if x19<11.7003 then node 4 elseif x19>=11.7003 then node 5 else 1
+3  if x235<4.91584 then node 6 elseif x235>=4.91584 then node 7 else 0
+4  class = 1
+5  class = 0
+6  class = 1
+7  class = 0
+
+Decision Tree Model 1 Average AUC = 0.493
+Decision Tree Model 1 Average Accuracy = 0.430
+Decision Tree Model 1 Average Error Rate = 0.570
+Decision Tree Model 1 Average Sensitivity = 0.000
+Decision Tree Model 1 Average Specificity = 0.486
+
+
+ Best Values 
+
+ Best AUC: 0.722
+ Best ACC: 0.778
+ Best Error: 0.222
+ Best Sensitivity: 0.000
+ Best Specificity: 0.778
+ 
+Decision tree for classification
+1  if x30040<12.3057 then node 2 elseif x30040>=12.3057 then node 3 else 0
+2  if x17717<8.69714 then node 4 elseif x17717>=8.69714 then node 5 else 1
+3  class = 0
+4  class = 1
+5  class = 0
+
+Decision Tree Model 1 Average AUC = 0.489
+Decision Tree Model 1 Average Accuracy = 0.509
+Decision Tree Model 1 Average Error Rate = 0.491
+Decision Tree Model 1 Average Sensitivity = 0.000
+Decision Tree Model 1 Average Specificity = 0.549
+
+
+ Best Values 
+
+ Best AUC: 0.616
+ Best ACC: 1.000
+ Best Error: 0.000
+ Best Sensitivity: 0.000
+ Best Specificity: 0.375
+ 
+Decision tree for classification
+1  if x1969<7.7997 then node 2 elseif x1969>=7.7997 then node 3 else 0
+2  class = 1
+3  if x14209<8.91627 then node 4 elseif x14209>=8.91627 then node 5 else 0
+4  class = 0
+5  class = 1
+
+Decision Tree Model 1 Average AUC = 0.550
+Decision Tree Model 1 Average Accuracy = 0.537
+Decision Tree Model 1 Average Error Rate = 0.463
+Decision Tree Model 1 Average Sensitivity = 0.000
+Decision Tree Model 1 Average Specificity = 0.617
+
+
+ Best Values 
+
+ Best AUC: 0.700
+ Best ACC: 0.500
+ Best Error: 0.500
+ Best Sensitivity: 0.000
+ Best Specificity: 0.800
+ 
+Decision tree for classification
+1  if x10712<12.0934 then node 2 elseif x10712>=12.0934 then node 3 else 1
+2  if x583<8.18615 then node 4 elseif x583>=8.18615 then node 5 else 0
+3  class = 1
+4  class = 0
+5  class = 1
+
+Decision Tree Model 1 Average AUC = 0.460
+Decision Tree Model 1 Average Accuracy = 0.415
+Decision Tree Model 1 Average Error Rate = 0.585
+Decision Tree Model 1 Average Sensitivity = 0.000
+Decision Tree Model 1 Average Specificity = 0.533
+
+
+ Best Values 
+
+ Best AUC: 0.693
+ Best ACC: 0.429
+ Best Error: 0.571
+ Best Sensitivity: 0.000
+ Best Specificity: 0.750
+ 
+Decision tree for classification
+1  if x30129<8.33628 then node 2 elseif x30129>=8.33628 then node 3 else 1
+2  if x340<8.22201 then node 4 elseif x340>=8.22201 then node 5 else 0
+3  if x13<9.3257 then node 6 elseif x13>=9.3257 then node 7 else 1
+4  class = 1
+5  class = 0
+6  class = 0
+7  class = 1
+
+Decision Tree Model 1 Average AUC = 0.529
+Decision Tree Model 1 Average Accuracy = 0.459
+Decision Tree Model 1 Average Error Rate = 0.541
+Decision Tree Model 1 Average Sensitivity = 0.000
+Decision Tree Model 1 Average Specificity = 0.582
+
+
+ Best Values 
+
+ Best AUC: 0.792
+ Best ACC: 0.375
+ Best Error: 0.625
+ Best Sensitivity: 0.000
+ Best Specificity: 1.000
+ 
+Decision tree for classification
+1  if x13671<10.2537 then node 2 elseif x13671>=10.2537 then node 3 else 1
+2  if x1<11.33 then node 4 elseif x1>=11.33 then node 5 else 1
+3  if x1145<10.3669 then node 6 elseif x1145>=10.3669 then node 7 else 0
+4  class = 0
+5  class = 1
+6  class = 0
+7  class = 1
+
+Decision Tree Model 1 Average AUC = 0.476
+Decision Tree Model 1 Average Accuracy = 0.443
+Decision Tree Model 1 Average Error Rate = 0.557
+Decision Tree Model 1 Average Sensitivity = 0.000
+Decision Tree Model 1 Average Specificity = 0.471
+
+
+ Best Values 
+
+ Best AUC: 0.670
+ Best ACC: 0.625
+ Best Error: 0.375
+ Best Sensitivity: 0.000
+ Best Specificity: 0.714
+ 
+Decision tree for classification
+1  if x20682<7.90928 then node 2 elseif x20682>=7.90928 then node 3 else 0
+2  class = 0
+3  if x3236<5.33448 then node 4 elseif x3236>=5.33448 then node 5 else 1
+4  class = 0
+5  class = 1
+
+Decision Tree Model 1 Average AUC = 0.437
+Decision Tree Model 1 Average Accuracy = 0.391
+Decision Tree Model 1 Average Error Rate = 0.609
+Decision Tree Model 1 Average Sensitivity = 0.000
+Decision Tree Model 1 Average Specificity = 0.384
+
+
+ Best Values 
+
+ Best AUC: 0.611
+ Best ACC: 0.714
+ Best Error: 0.286
+ Best Sensitivity: 0.000
+ Best Specificity: 0.556
+ 
+Decision tree for classification
+1  if x9700<5.87526 then node 2 elseif x9700>=5.87526 then node 3 else 0
+2  class = 1
+3  if x4684<8.92397 then node 4 elseif x4684>=8.92397 then node 5 else 0
+4  class = 1
+5  class = 0
+
+Decision Tree Model 1 Average AUC = 0.496
+Decision Tree Model 1 Average Accuracy = 0.469
+Decision Tree Model 1 Average Error Rate = 0.531
+Decision Tree Model 1 Average Sensitivity = 0.000
+Decision Tree Model 1 Average Specificity = 0.434
+
+
+ Best Values 
+
+ Best AUC: 0.806
+ Best ACC: 0.714
+ Best Error: 0.286
+ Best Sensitivity: 0.000
+ Best Specificity: 0.833
+ 
+Decision tree for classification
+1  if x27297<13.3901 then node 2 elseif x27297>=13.3901 then node 3 else 0
+2  if x429<7.40205 then node 4 elseif x429>=7.40205 then node 5 else 1
+3  if x7<10.4028 then node 6 elseif x7>=10.4028 then node 7 else 0
+4  class = 0
+5  class = 1
+6  class = 0
+7  class = 1
+
+
+Average Values of All Trees
+Average AUC: 0.7035
+Average Accuracy: 0.6446
+Average Error: 0.3554
+Average Sensitivity: 0.0000
+Average Specificity: 0.7192
+
+Max AUC or Accuracy and Their Corresponding Trees/Values
+
+Max AUC: 0.8056
+ACC corresponding to Max AUC: 0.714286
+ERR corresponding to Max AUC: 0.285714
+SENS corresponding to Max AUC: 0.000000
+SPEC corresponding to Max AUC: 0.833333
+
+Decision tree for classification
+1  if x27297<13.3901 then node 2 elseif x27297>=13.3901 then node 3 else 0
+2  if x429<7.40205 then node 4 elseif x429>=7.40205 then node 5 else 1
+3  if x7<10.4028 then node 6 elseif x7>=10.4028 then node 7 else 0
+4  class = 0
+5  class = 1
+6  class = 0
+7  class = 1
+
+
+Max ACC: 1.0000
+AUC corresponding to Max ACC: 1.000000
+ERR corresponding to Max ACC: 0.000000
+SENS corresponding to Max ACC: 0.000000
+SPEC corresponding to Max ACC: 0.375000
+
+Decision tree for classification
+1  if x1969<7.7997 then node 2 elseif x1969>=7.7997 then node 3 else 0
+2  class = 1
+3  if x14209<8.91627 then node 4 elseif x14209>=8.91627 then node 5 else 0
+4  class = 0
+5  class = 1
+
